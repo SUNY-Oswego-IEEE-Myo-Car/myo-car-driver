@@ -10,3 +10,6 @@ The program can be run from source by running the following command in the termi
 ```
 make run
 ```
+
+## License
+Myo Car Driver is available under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html), see `LICENSE` for more information.
